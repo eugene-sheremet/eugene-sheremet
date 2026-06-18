@@ -1,3 +1,1 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=eugene-sheremet&theme=dark&mode=weekly&background=0d1117&border=30363d&ring=d4f742&fire=d4f742&currStreakLabel=d4f742&sideLabels=8b949e&dates=8b949e&sideNums=e6edf3&currStreakNum=e6edf3&stroke=0d1117)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=eugene-sheremet)](https://git.io/streak-stats)
